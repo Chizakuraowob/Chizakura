@@ -1,3 +1,3 @@
 # Chizakura
 
-![My Metrics(./github-metrics.svg)](https://chizakura.dev)
+[![My Metrics](./github-metrics.svg)](https://chizakura.dev)
